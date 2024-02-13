@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "make": "^0.8.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "dungeon-and-files",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-or-Miyuki/Dungeon-and-Files.git"
+  },
+  "author": "Miyuki,Astreytal987",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad-or-Miyuki/Dungeon-and-Files/issues"
+  },
+  "homepage": "https://github.com/Vlad-or-Miyuki/Dungeon-and-Files#readme"
+}
